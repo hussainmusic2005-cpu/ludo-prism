@@ -1,0 +1,8 @@
+{
+  "name": "Ludo Prism",
+  "short_name": "Ludo Prism",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#150C33",
+  "theme_color": "#150C33"
+}
