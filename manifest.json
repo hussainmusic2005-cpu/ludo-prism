@@ -1,20 +1,9 @@
 {
   "name": "Ludo Prism",
   "short_name": "LudoPrism",
-  "start_url": "/",
+  "start_url": "/ludo-prism/",
+  "scope": "/ludo-prism/",
   "display": "standalone",
-  "background_color": "#150C33",
-  "theme_color": "#150C33",
-  "icons": [
-    {
-      "src": "launchericon-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "launchericon-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
 }
